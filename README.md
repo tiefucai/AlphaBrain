@@ -5,8 +5,8 @@
 ### A Modular Open-Source Framework for Embodied Intelligence Research
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Docs](https://img.shields.io/badge/Docs-Online-green.svg)](https://alphabraingroup.github.io/AlphaBrain/)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models-orange.svg)]()
+[![Docs](https://img.shields.io/badge/Docs-Online-green.svg)](https://github.com/AlphaBrainGroup/AlphaBrain)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models-orange.svg)](https://huggingface.co/AlphaBrainGroup)
 
 <p align="center">
   <img src="assets/main_fig.png" width="100%" alt="AlphaBrain Architecture Overview"/>
@@ -52,7 +52,7 @@
 
 Full setup, training, evaluation, and deployment instructions live in our documentation site. Step-by-step guides, configuration references, and troubleshooting notes are all maintained there.
 
-👉 **[AlphaBrain Documentation →](https://alphabrain.github.io/)**
+👉 **[AlphaBrain Documentation →](https://github.com/AlphaBrainGroup/AlphaBrain)**
 
 ---
 
@@ -127,8 +127,8 @@ We welcome contributions from the community — including new frameworks, benchm
 
 | Channel | Link |
 |:--------|:-----|
-| GitHub Issues | [Report bugs & request features](https://github.com/guoweiyu/VLA-Engine-Developer/issues) |
-| HuggingFace | — |
+| GitHub Issues | [Report bugs & request features](https://github.com/AlphaBrainGroup/AlphaBrain/issues) |
+| HuggingFace | [Models](https://huggingface.co/AlphaBrainGroup) |
 
 ### Acknowledgments
 
@@ -156,9 +156,9 @@ AlphaBrain stands on the shoulders of an incredible open-source ecosystem. We ar
   title     = {AlphaBrain: a Modular Open-Source Framework for Embodied Intelligence Research},
   author    = {AlphaBrain Community},
   year      = {2025},
-  url       = {https://github.com/guoweiyu/VLA-Engine-Developer},
+  url       = {https://github.com/AlphaBrainGroup/AlphaBrain},
   license   = {MIT},
-  doi       = {10.5281/zenodo.18264214}
+  doi       = {}
 }
 ```
 

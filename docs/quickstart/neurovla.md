@@ -49,4 +49,4 @@ Results: `results/evaluation/brain_inspired_eval_<timestamp>/<suite>/`.
 
 ---
 
-Full CLI reference and the team's open-research notes: [`scripts/run_brain_inspired_scripts/README.md`](https://github.com/guoweiyu/VLA-Engine-Developer/blob/dev/scripts/run_brain_inspired_scripts/README.md).
+Full CLI reference and the team's open-research notes: [`scripts/run_brain_inspired_scripts/README.md`](https://github.com/AlphaBrainGroup/AlphaBrain/blob/main/scripts/run_brain_inspired_scripts/README.md).

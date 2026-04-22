@@ -73,4 +73,4 @@ Results: `results/evaluation/<suite>/<ckpt_tag>-<timestamp>/`.
 
 ---
 
-Full env-var reference, required-checkpoint table, reproduction numbers, and troubleshooting: [`scripts/run_world_model/README.md`](https://github.com/guoweiyu/VLA-Engine-Developer/blob/dev/scripts/run_world_model/README.md).
+Full env-var reference, required-checkpoint table, reproduction numbers, and troubleshooting: [`scripts/run_world_model/README.md`](https://github.com/AlphaBrainGroup/AlphaBrain/blob/main/scripts/run_world_model/README.md).

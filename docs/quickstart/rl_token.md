@@ -35,4 +35,4 @@ Results: `<RUN_DIR>/eval_rl_offpolicy_iter_<NNNNN>/summary.json`.
 
 ---
 
-Full CLI reference, rollout/TD math, and release disclaimer: [`scripts/run_rl_scripts/README.md`](https://github.com/guoweiyu/VLA-Engine-Developer/blob/dev/scripts/run_rl_scripts/README.md).
+Full CLI reference, rollout/TD math, and release disclaimer: [`scripts/run_rl_scripts/README.md`](https://github.com/AlphaBrainGroup/AlphaBrain/blob/main/scripts/run_rl_scripts/README.md).

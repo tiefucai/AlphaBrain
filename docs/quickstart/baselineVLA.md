@@ -60,4 +60,4 @@ Results: per-task + overall success rate.
 - [World Model](world_model.md) — V-JEPA / Cosmos / Wan backbones
 - [Continual Learning](continual_learning.md) — sequential finetuning across 10 tasks
 
-Full mode list, perf table, and custom-config overrides: [`scripts/run_base_vla/README.md`](https://github.com/guoweiyu/VLA-Engine-Developer/blob/dev/scripts/run_base_vla/README.md).
+Full mode list, perf table, and custom-config overrides: [`scripts/run_base_vla/README.md`](https://github.com/AlphaBrainGroup/AlphaBrain/blob/main/scripts/run_base_vla/README.md).

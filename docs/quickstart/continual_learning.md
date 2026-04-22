@@ -51,4 +51,4 @@ Per-task SR + 10×10 matrix: `results/eval_cl/<run_id>/`.
 
 ---
 
-Full yaml preset list, CLI flags, headline results (5a–5l), and author notes: [`scripts/run_continual_learning_scripts/README.md`](https://github.com/guoweiyu/VLA-Engine-Developer/blob/dev/scripts/run_continual_learning_scripts/README.md).
+Full yaml preset list, CLI flags, headline results (5a–5l), and author notes: [`scripts/run_continual_learning_scripts/README.md`](https://github.com/AlphaBrainGroup/AlphaBrain/blob/main/scripts/run_continual_learning_scripts/README.md).

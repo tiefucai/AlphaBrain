@@ -91,4 +91,4 @@ Run these once before any capability page:
 - Full installation reference → [Installation](installation.md)
 - First trained-and-evaluated checkpoint → [Baseline VLA](baselineVLA.md)
 - Source-level reference → [API Reference](../api/index.md)
-- File an issue → [github.com/guoweiyu/VLA-Engine-Developer/issues](https://github.com/guoweiyu/VLA-Engine-Developer/issues)
+- File an issue → [github.com/AlphaBrainGroup/AlphaBrain/issues](https://github.com/AlphaBrainGroup/AlphaBrain/issues)
