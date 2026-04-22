@@ -5,7 +5,7 @@
 ### A Modular Open-Source Framework for Embodied Intelligence Research
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Docs](https://img.shields.io/badge/Docs-Online-green.svg)](https://alphabrain.github.io/)
+[![Docs](https://img.shields.io/badge/Docs-Online-green.svg)](https://alphabraingroup.github.io/AlphaBrain/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models-orange.svg)]()
 
 <p align="center">
